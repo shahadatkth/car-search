@@ -1,0 +1,18 @@
+body {
+  color: #333;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-weight: 200;
+}
+
+input{
+  border:2px gray solid;
+  border-radius: 8px;
+  color: black;
+  font-family: arial,sans-serif;
+  background-color: aliceblue;
+
+}
+.search-area{
+  margin-top:50px;
+  height:100px;
+}
